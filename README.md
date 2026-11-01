@@ -3,6 +3,6 @@
 
 Version 1.1
 
-Note: I'd recommend OnionHop v3 for best connection to TOR network.
+Note: I'd recommend OnionHop v3 for best connection to TOR network. https://github.com/center2055/OnionHop
 
 Checking daily. Manually tested for connection. I will not add more than 10 bridges.
